@@ -78,4 +78,3 @@ Para executar o projeto, é necessário ter o **Flowgorithm** instalado no compu
 6. Visualize o resultado da operação escolhida.
 
 ---
-**Projeto desenvolvido como atividade prática de lógica de programação utilizando o Flowgorithm.**
