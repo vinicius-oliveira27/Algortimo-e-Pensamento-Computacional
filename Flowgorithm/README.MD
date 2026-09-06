@@ -78,3 +78,5 @@ Para executar o projeto, é necessário ter o **Flowgorithm** instalado no compu
 6. Visualize o resultado da operação escolhida.
 
 ---
+
+**Projeto desenvolvido para fins acadêmicos**
