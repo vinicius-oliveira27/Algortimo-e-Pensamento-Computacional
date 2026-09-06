@@ -1,5 +1,6 @@
-<div align: "center">
-# Algortimos e Pensamento Computacional
+<div align="center">
+
+# Algoritmos e Pensamentos Computacionais
 
 </div>
 
