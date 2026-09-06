@@ -1,4 +1,7 @@
-# Algortimos-e-Pensamento-Computacional
+<div align: center>
+# Algortimos e Pensamento Computacional
+
+</div>
 
 ## Sobre a disciplina
 
