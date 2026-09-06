@@ -138,10 +138,10 @@ A biblioteca:
 
 ## Como executar
 
-1- Copie o código do arquivo
-2- Vá até o site ```https://www.onlinegdb.com/```
-3- Faça uma conta
-4- Cole o código para rodar e testar o programa.
+1. Copie o código do arquivo
+2. Vá até o site ```https://www.onlinegdb.com/```
+3. Faça uma conta
+4. Cole o código para rodar e testar o programa.
 
 ---
 
