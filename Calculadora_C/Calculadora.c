@@ -350,7 +350,7 @@ int main() {
 
     } while (continuar == 'Y' || continuar == 'y'); /*caso while padrão. Enquanto tal coisa for verdadeira, continue executando*/
 
-    printf("\nEncerrando a calculadora... Ate logo!\n");
+    printf("\nEncerrando a calculadora... Até logo!\n");
 
     return 0;
 }
