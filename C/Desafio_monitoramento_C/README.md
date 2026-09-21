@@ -18,7 +18,7 @@ O projeto foi desenvolvido em linguagem C com o objetivo de aplicar conceito da 
 
 ## Objetivos de Aprendizado
 
-- **Estrutura de laço de repetição:** Uso do 'while' e 'do while'
+- **Estrutura de laço de repetição:** Uso do `while...` e `do...while`
 - **Manipulação Numérica:** Uso do tipo `float` para trabalhar com valores decimais de temperatura.
 - **Entrada e Saída de Dados:** Utilização de `scanf` e `printf` para interação com o usuário.
 
@@ -92,9 +92,9 @@ Neste teste consta a evidência da **entrada inválida da temperatura** pelo usu
 
 ## Reflexão sobre a estrutura de laço de repetição
 
-No programa consta o uso do 'do...while' e 'while...' . Usei os duas formas de laços por curiosidade e por ser ,de certa forma, mais prático.
+No programa consta o uso do `do...while` e `while...` . Usei os duas formas de laços por curiosidade e por ser ,de certa forma, mais prático.
 
-O primeiro executa o bloco antes do 'while' , assim eu achei perfeito para colocar ele em situações em que eu precisaria que o usuário digitasse e caso a entrada fosse inválida, sair o mesmo comando, sem que a repetição fosse executada.
+O primeiro executa o bloco antes do `while` , assim eu achei perfeito para colocar ele em situações em que eu precisaria que o usuário digitasse e caso a entrada fosse inválida, sair o mesmo comando, sem que a repetição fosse executada.
 
 As duas formas juntas dão uma versatilidade maior e com certeza ampliou meus conhecimentos.
 
