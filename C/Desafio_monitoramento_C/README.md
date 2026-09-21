@@ -86,7 +86,7 @@ Neste teste consta a evidência do uso esperado do programa.
 
 Neste teste consta a evidência de **limite inválido** proposto pelo usuário, havendo tratamento de erros.
 
-### Teste 1
+### Teste 3
 
 Neste teste consta a evidência da **entrada inválida da temperatura** pelo usuário, havendo tratamento de erros.
 
