@@ -26,7 +26,7 @@ Desenvolver uma **calculadora completa em linguagem C**, aplicando de conceitos 
 
 ## Descrição
 
-A atividade consiste no desenvolvimento de uma calculadora de 20 operações em C que permita ao usuário escolher operações matemáticas por meio de um **menu interativo**.
+A atividade consiste no desenvolvimento de uma **calculadora de 20 operações em C** que permita ao usuário escolher operações matemáticas por meio de um **menu interativo**.
 
 O programa utiliza estruturas como `switch...case`, `if...else` e `do...while` para controlar as opções, realizar os cálculos e permitir que o usuário execute novas operações até escolher encerrar o programa.
 
