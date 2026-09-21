@@ -5,6 +5,8 @@
 </div>
 
 ### Desenvolvido por Vinícius Oliveira Araújo
+- Disciplina: Algoritmos e Pensamento Computacional
+- Professora: Profa. Karla Sartin
 
 ---
 
