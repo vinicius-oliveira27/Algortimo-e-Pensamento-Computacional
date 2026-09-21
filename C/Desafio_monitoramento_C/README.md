@@ -18,7 +18,7 @@ O projeto foi desenvolvido em linguagem C com o objetivo de aplicar conceito da 
 
 ## Objetivos de Aprendizado
 
-- **Estrutura de laço de repetição:** Uso do 'while...' e 'do...while'
+- **Estrutura de laço de repetição:** Uso do 'while' e 'do while'
 - **Manipulação Numérica:** Uso do tipo `float` para trabalhar com valores decimais de temperatura.
 - **Entrada e Saída de Dados:** Utilização de `scanf` e `printf` para interação com o usuário.
 
