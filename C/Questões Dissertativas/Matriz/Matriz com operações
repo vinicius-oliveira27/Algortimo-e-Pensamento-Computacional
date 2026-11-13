@@ -1,0 +1,77 @@
+// Desenvolva um código em linguagem C em que o usuário Digite duas matrizes (3x5) e o código devolva a soma, a subtração, a multiplicação e a divisão dos elemento ij. Crie um repositório no github, com código e Readme, apresente o link
+#include <stdio.h>
+int main(){
+
+    int mat1[3][5], mat2[3][5];
+
+    printf("Digite os elementos da primeira matriz: \n");
+    for(int i = 0; i < 3; i++){
+        for(int j = 0; j < 5; j++){
+            printf("\nDigite o %dº valor da matriz[%d][%d]: \n", j + 1, i, j);
+            scanf("%d", &mat1[i][j]);
+        }
+    }
+
+    printf("\n\nDigite os elementos da segunda matriz: \n");
+    for(int i = 0; i < 3; i++){
+        for(int j = 0; j < 5; j++){
+            printf("\nDigite o %dº valor da matriz[%d][%d]: \n", j + 1, i, j);
+            scanf("%d", &mat2[i][j]);
+        }
+    }
+
+    printf("\n/// RESULTADOS ///\n");
+
+    printf("\nVisualização da primeira matriz:\n");
+        for(int i = 0; i < 3; i++){
+            for(int j = 0; j < 5; j++){
+                printf("%d ", mat1[i][j]);
+            }
+            printf("\n");
+        }
+
+    printf("\nVisualização da segunda matriz:\n");
+        for(int i = 0; i < 3; i++){
+            for(int j = 0; j < 5; j++){
+                printf("%d ", mat2[i][j]);
+            }
+            printf("\n");
+        }    
+
+    printf("\n++ Soma das matrizes ++\n");
+    for(int i = 0; i < 3; i++){
+        for(int j = 0; j < 5; j++){
+            printf("%d ", mat1[i][j] + mat2[i][j]);
+        }
+        printf("\n");
+    }
+
+    printf("\n-- Subtração das matrizes --\n");
+    for(int i = 0; i < 3; i++){
+        for(int j = 0; j < 5; j++){
+            printf("%d ", mat1[i][j] - mat2[i][j]);
+        }
+        printf("\n");
+    }
+
+    printf("\n** Multiplicação das matrizes **\n");
+    for(int i = 0; i < 3; i++){
+        for(int j = 0; j < 5; j++){
+            printf("%d ", mat1[i][j] * mat2[i][j]);
+        }
+        printf("\n");
+    }
+
+    printf("\n// Divisão das matrizes //\n");
+    for(int i = 0; i < 3; i++){
+        for(int j = 0; j < 5; j++){
+            if(mat2[i][j] != 0){
+            printf("%.2f ", (float)mat1[i][j] / mat2[i][j]);
+            }else{
+                printf("indefinido");
+            }
+        }
+        printf("\n");
+    }
+    return 0;
+}
