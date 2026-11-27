@@ -59,14 +59,12 @@ Este projeto consiste no desenvolvimento de um **sistema interativo em linguagem
 
 ## Como utilizar
 
-1. Baixe o projeto pelo botão Code, selecionando Download ZIP.
-2. Extraia os arquivos para uma pasta.
-3. Abra o projeto em um ambiente que possua compilador C, como GCC.
-4. Compile os arquivos utilizando o comando:
+1. Baixe os arquivos `.c` e `.h`.
+2. Abra o projeto em um ambiente que possua compilador C, como GCC.
+3. Compile os arquivos utilizando o comando:
 `bash
 gcc main.c leitura.c exibicao.c validacao.c operacoes.c -o matrizes -lm`
-
-5. Execute o programa.
+4. Execute o programa.
 
 * No Windows:
 
